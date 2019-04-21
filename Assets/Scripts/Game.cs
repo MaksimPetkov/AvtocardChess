@@ -61,6 +61,7 @@ public class Game : MonoBehaviour {
         if (hpCount <= 0)
         {
             EndGame();
+            hpCount = 0;
         }
         hpText.text = hpCount + " / 100";
 
