@@ -1,0 +1,1036 @@
+fileFormatVersion: 2
+guid: 94340b94884b20746bfb6d9f925d99f4
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bip_hordecloth1
+    100002: bip_hordeHead
+    100004: bip_hordeLCalf
+    100006: bip_hordeLCollarbone
+    100008: bip_hordeLDigit11
+    100010: bip_hordeLDigit11 1
+    100012: bip_hordeLDigit12
+    100014: bip_hordeLDigit31
+    100016: bip_hordeLDigit32
+    100018: bip_hordeLFoot
+    100020: bip_hordeLForearm
+    100022: bip_hordeLPalm
+    100024: bip_hordeLThigh
+    100026: bip_hordeLUpperarm
+    100028: bip_hordemouth
+    100030: bip_hordeNeck1
+    100032: bip_hordeNeck2
+    100034: bip_hordePelvis
+    100036: bip_hordeRCalf
+    100038: bip_hordeRCollarbone
+    100040: bip_hordeRDigit11
+    100042: bip_hordeRDigit11 1
+    100044: bip_hordeRDigit12
+    100046: bip_hordeRDigit31
+    100048: bip_hordeRDigit32
+    100050: bip_hordeRFoot
+    100052: bip_hordeRForearm
+    100054: bip_hordeRibcage
+    100056: bip_hordeRPalm
+    100058: bip_hordeRThigh
+    100060: bip_hordeRUpperarm
+    100062: bip_hordeSpine1
+    100064: bip_hordeSpine2
+    100066: bip_hordeSpine3
+    100068: bip_hordeTail1
+    100070: ctrl_goblin arch_arrow
+    100072: //RootNode
+    100074: FH_skeleton
+    100076: FH_skeleton_strong
+    100078: skeleton_ arch_03
+    100080: skeleton_ arch_botton
+    100082: skeleton_ arch_cord_01
+    100084: skeleton_ arch_cord_02
+    100086: skeleton_ arch_main
+    100088: skeleton_ arch_top
+    100090: skeleton_arch_01
+    100092: skeleton_arch_02
+    100094: skeleton_arm plate
+    100096: skeleton_axe_01
+    100098: skeleton_axe_02
+    100100: skeleton_axe_03
+    100102: skeleton_belt_01
+    100104: skeleton_belt_02
+    100106: skeleton_body armor
+    100108: skeleton_boot_01
+    100110: skeleton_boot_02
+    100112: skeleton_cloth_01
+    100114: skeleton_club_01
+    100116: skeleton_club_02
+    100118: skeleton_hammer_01
+    100120: skeleton_helmet_01
+    100122: skeleton_helmet_03
+    100124: skeleton_helmet_04
+    100126: skeleton_helmet_05
+    100128: skeleton_helmet_06
+    100130: skeleton_hood
+    100132: skeleton_knee pad
+    100134: skeleton_leg plate
+    100136: skeleton_leg ring
+    100138: skeleton_pelvis_armor
+    100140: skeleton_quiver
+    100142: skeleton_shield
+    100144: skeleton_shoulder pad_01
+    100146: skeleton_shoulder pad_02
+    100148: skeleton_shoulder pad_03
+    100150: skeleton_shoulder pad_05_L
+    100152: skeleton_shoulder pad_05_R
+    100154: skeleton_shoulder pad_07
+    100156: skeleton_shoulder pad_08
+    100158: skeleton_spear
+    100160: skeleton_staff_01
+    100162: skeleton_staff_02
+    100164: skeleton_staff_03
+    100166: skeleton_staff_04
+    100168: skeleton_staff_05
+    100170: skeleton_sword_01
+    100172: skeleton_sword_02
+    100174: skeleton_sword_03
+    100176: skeleton_sword_gladius
+    100178: skeleton_wizard
+    400000: bip_hordecloth1
+    400002: bip_hordeHead
+    400004: bip_hordeLCalf
+    400006: bip_hordeLCollarbone
+    400008: bip_hordeLDigit11
+    400010: bip_hordeLDigit11 1
+    400012: bip_hordeLDigit12
+    400014: bip_hordeLDigit31
+    400016: bip_hordeLDigit32
+    400018: bip_hordeLFoot
+    400020: bip_hordeLForearm
+    400022: bip_hordeLPalm
+    400024: bip_hordeLThigh
+    400026: bip_hordeLUpperarm
+    400028: bip_hordemouth
+    400030: bip_hordeNeck1
+    400032: bip_hordeNeck2
+    400034: bip_hordePelvis
+    400036: bip_hordeRCalf
+    400038: bip_hordeRCollarbone
+    400040: bip_hordeRDigit11
+    400042: bip_hordeRDigit11 1
+    400044: bip_hordeRDigit12
+    400046: bip_hordeRDigit31
+    400048: bip_hordeRDigit32
+    400050: bip_hordeRFoot
+    400052: bip_hordeRForearm
+    400054: bip_hordeRibcage
+    400056: bip_hordeRPalm
+    400058: bip_hordeRThigh
+    400060: bip_hordeRUpperarm
+    400062: bip_hordeSpine1
+    400064: bip_hordeSpine2
+    400066: bip_hordeSpine3
+    400068: bip_hordeTail1
+    400070: ctrl_goblin arch_arrow
+    400072: //RootNode
+    400074: FH_skeleton
+    400076: FH_skeleton_strong
+    400078: skeleton_ arch_03
+    400080: skeleton_ arch_botton
+    400082: skeleton_ arch_cord_01
+    400084: skeleton_ arch_cord_02
+    400086: skeleton_ arch_main
+    400088: skeleton_ arch_top
+    400090: skeleton_arch_01
+    400092: skeleton_arch_02
+    400094: skeleton_arm plate
+    400096: skeleton_axe_01
+    400098: skeleton_axe_02
+    400100: skeleton_axe_03
+    400102: skeleton_belt_01
+    400104: skeleton_belt_02
+    400106: skeleton_body armor
+    400108: skeleton_boot_01
+    400110: skeleton_boot_02
+    400112: skeleton_cloth_01
+    400114: skeleton_club_01
+    400116: skeleton_club_02
+    400118: skeleton_hammer_01
+    400120: skeleton_helmet_01
+    400122: skeleton_helmet_03
+    400124: skeleton_helmet_04
+    400126: skeleton_helmet_05
+    400128: skeleton_helmet_06
+    400130: skeleton_hood
+    400132: skeleton_knee pad
+    400134: skeleton_leg plate
+    400136: skeleton_leg ring
+    400138: skeleton_pelvis_armor
+    400140: skeleton_quiver
+    400142: skeleton_shield
+    400144: skeleton_shoulder pad_01
+    400146: skeleton_shoulder pad_02
+    400148: skeleton_shoulder pad_03
+    400150: skeleton_shoulder pad_05_L
+    400152: skeleton_shoulder pad_05_R
+    400154: skeleton_shoulder pad_07
+    400156: skeleton_shoulder pad_08
+    400158: skeleton_spear
+    400160: skeleton_staff_01
+    400162: skeleton_staff_02
+    400164: skeleton_staff_03
+    400166: skeleton_staff_04
+    400168: skeleton_staff_05
+    400170: skeleton_sword_01
+    400172: skeleton_sword_02
+    400174: skeleton_sword_03
+    400176: skeleton_sword_gladius
+    400178: skeleton_wizard
+    2300000: bip_hordecloth1
+    2300002: bip_hordeHead
+    2300004: bip_hordeLCalf
+    2300006: bip_hordeLCollarbone
+    2300008: bip_hordeLDigit11
+    2300010: bip_hordeLDigit11 1
+    2300012: bip_hordeLDigit12
+    2300014: bip_hordeLDigit31
+    2300016: bip_hordeLDigit32
+    2300018: bip_hordeLFoot
+    2300020: bip_hordeLForearm
+    2300022: bip_hordeLPalm
+    2300024: bip_hordeLThigh
+    2300026: bip_hordeLUpperarm
+    2300028: bip_hordemouth
+    2300030: bip_hordeNeck1
+    2300032: bip_hordeNeck2
+    2300034: bip_hordePelvis
+    2300036: bip_hordeRCalf
+    2300038: bip_hordeRCollarbone
+    2300040: bip_hordeRDigit11
+    2300042: bip_hordeRDigit11 1
+    2300044: bip_hordeRDigit12
+    2300046: bip_hordeRDigit31
+    2300048: bip_hordeRDigit32
+    2300050: bip_hordeRFoot
+    2300052: bip_hordeRForearm
+    2300054: bip_hordeRibcage
+    2300056: bip_hordeRPalm
+    2300058: bip_hordeRThigh
+    2300060: bip_hordeRUpperarm
+    2300062: bip_hordeSpine1
+    2300064: bip_hordeSpine2
+    2300066: bip_hordeSpine3
+    2300068: bip_hordeTail1
+    2300070: skeleton_axe_01
+    2300072: skeleton_axe_02
+    2300074: skeleton_axe_03
+    2300076: skeleton_belt_01
+    2300078: skeleton_belt_02
+    2300080: skeleton_body armor
+    2300082: skeleton_club_01
+    2300084: skeleton_club_02
+    2300086: skeleton_hammer_01
+    2300088: skeleton_helmet_01
+    2300090: skeleton_helmet_03
+    2300092: skeleton_helmet_04
+    2300094: skeleton_helmet_05
+    2300096: skeleton_helmet_06
+    2300098: skeleton_quiver
+    2300100: skeleton_shield
+    2300102: skeleton_shoulder pad_05_L
+    2300104: skeleton_shoulder pad_05_R
+    2300106: skeleton_spear
+    2300108: skeleton_staff_01
+    2300110: skeleton_staff_02
+    2300112: skeleton_staff_03
+    2300114: skeleton_staff_04
+    2300116: skeleton_staff_05
+    2300118: skeleton_sword_01
+    2300120: skeleton_sword_02
+    2300122: skeleton_sword_03
+    2300124: skeleton_sword_gladius
+    3300000: bip_hordecloth1
+    3300002: bip_hordeHead
+    3300004: bip_hordeLCalf
+    3300006: bip_hordeLCollarbone
+    3300008: bip_hordeLDigit11
+    3300010: bip_hordeLDigit11 1
+    3300012: bip_hordeLDigit12
+    3300014: bip_hordeLDigit31
+    3300016: bip_hordeLDigit32
+    3300018: bip_hordeLFoot
+    3300020: bip_hordeLForearm
+    3300022: bip_hordeLPalm
+    3300024: bip_hordeLThigh
+    3300026: bip_hordeLUpperarm
+    3300028: bip_hordemouth
+    3300030: bip_hordeNeck1
+    3300032: bip_hordeNeck2
+    3300034: bip_hordePelvis
+    3300036: bip_hordeRCalf
+    3300038: bip_hordeRCollarbone
+    3300040: bip_hordeRDigit11
+    3300042: bip_hordeRDigit11 1
+    3300044: bip_hordeRDigit12
+    3300046: bip_hordeRDigit31
+    3300048: bip_hordeRDigit32
+    3300050: bip_hordeRFoot
+    3300052: bip_hordeRForearm
+    3300054: bip_hordeRibcage
+    3300056: bip_hordeRPalm
+    3300058: bip_hordeRThigh
+    3300060: bip_hordeRUpperarm
+    3300062: bip_hordeSpine1
+    3300064: bip_hordeSpine2
+    3300066: bip_hordeSpine3
+    3300068: bip_hordeTail1
+    3300070: skeleton_axe_01
+    3300072: skeleton_axe_02
+    3300074: skeleton_axe_03
+    3300076: skeleton_belt_01
+    3300078: skeleton_belt_02
+    3300080: skeleton_body armor
+    3300082: skeleton_club_01
+    3300084: skeleton_club_02
+    3300086: skeleton_hammer_01
+    3300088: skeleton_helmet_01
+    3300090: skeleton_helmet_03
+    3300092: skeleton_helmet_04
+    3300094: skeleton_helmet_05
+    3300096: skeleton_helmet_06
+    3300098: skeleton_quiver
+    3300100: skeleton_shield
+    3300102: skeleton_shoulder pad_05_L
+    3300104: skeleton_shoulder pad_05_R
+    3300106: skeleton_spear
+    3300108: skeleton_staff_01
+    3300110: skeleton_staff_02
+    3300112: skeleton_staff_03
+    3300114: skeleton_staff_04
+    3300116: skeleton_staff_05
+    3300118: skeleton_sword_01
+    3300120: skeleton_sword_02
+    3300122: skeleton_sword_03
+    3300124: skeleton_sword_gladius
+    4300000: skeleton_arch_01
+    4300002: skeleton_shield
+    4300004: skeleton_shoulder pad_05_L
+    4300006: skeleton_axe_02
+    4300008: skeleton_sword_01
+    4300010: skeleton_staff_01
+    4300012: skeleton_staff_05
+    4300014: skeleton_sword_gladius
+    4300016: skeleton_spear
+    4300018: skeleton_axe_01
+    4300020: skeleton_sword_03
+    4300022: skeleton_club_02
+    4300024: skeleton_sword_02
+    4300026: skeleton_axe_03
+    4300028: skeleton_staff_04
+    4300030: skeleton_staff_03
+    4300032: skeleton_staff_02
+    4300034: barbarian_hammer_01
+    4300036: skeleton_club_01
+    4300038: skeleton_shoulder pad_05_R
+    4300040: skeleton_helmet_03
+    4300042: skeleton_helmelt_01
+    4300044: skeleton_helmet_04
+    4300046: skeleton_helmet_05
+    4300048: skeleton_helmet_06
+    4300050: skeleton_quiver
+    4300052: skeleton_body armor
+    4300054: skeleton_belt_01
+    4300056: skeleton_belt_02
+    4300058: FH_skeleton
+    4300060: skeleton_leg plate_R
+    4300062: skeleton_shoulder pad_08
+    4300064: skeleton_hood
+    4300066: skeleton_shoulder pad_07
+    4300068: skeleton_ arch_03
+    4300070: skeleton_arch_02
+    4300072: skeleton_shoulder pad_03
+    4300074: skeleton_cloth_01
+    4300076: skeleton_shoulder pad_01
+    4300078: skeleton_boot
+    4300080: skeleton_knee pad
+    4300082: skeleton_shoulder pad_02
+    4300084: skeleton_pelvis armor
+    4300086: skeleton_arm plate
+    4300088: skeleton_cloth_02
+    4300090: skeleton_wizard
+    4300092: skeleton_leg ring
+    4300094: skeleton_leg plate
+    4300096: skeleton_boot_01
+    4300098: skeleton_boot_02
+    4300100: bip_hordePelvis
+    4300102: bip_hordeLThigh
+    4300104: bip_hordeLCalf
+    4300106: bip_hordeLFoot
+    4300108: bip_hordeLDigit11
+    4300110: bip_hordeRThigh
+    4300112: bip_hordeRCalf
+    4300114: bip_hordeRFoot
+    4300116: bip_hordeRDigit11
+    4300118: bip_hordeSpine1
+    4300120: bip_hordeSpine2
+    4300122: bip_hordeSpine3
+    4300124: bip_hordeRibcage
+    4300126: bip_hordeLCollarbone
+    4300128: bip_hordeLUpperarm
+    4300130: bip_hordeLForearm
+    4300132: bip_hordeLPalm
+    4300134: bip_hordeLDigit11
+    4300136: bip_hordeLDigit12
+    4300138: bip_hordeLDigit31
+    4300140: bip_hordeLDigit32
+    4300142: bip_hordeRCollarbone
+    4300144: bip_hordeRUpperarm
+    4300146: bip_hordeRForearm
+    4300148: bip_hordeRPalm
+    4300150: bip_hordeRDigit11
+    4300152: bip_hordeRDigit12
+    4300154: bip_hordeRDigit31
+    4300156: bip_hordeRDigit32
+    4300158: bip_hordeNeck1
+    4300160: bip_hordeNeck2
+    4300162: bip_hordeHead
+    4300164: bip_hordemouth
+    4300166: bip_hordecloth1
+    4300168: bip_hordeTail1
+    4300170: FH_skeleton_strong
+    4300172: skeleton_pelvis_armor
+    4300174: skeleton_helmet_01
+    4300176: skeleton_hammer_01
+    7400000: idle
+    7400002: idle break01
+    7400004: idle break02
+    7400006: salute
+    7400008: crouch
+    7400010: hit
+    7400012: jump
+    7400014: die01
+    7400016: getup
+    7400018: die02
+    7400020: blocking
+    7400022: attack01
+    7400024: attack02
+    7400026: attack double
+    7400028: arch attack
+    7400030: prepare spear
+    7400032: spear attack
+    7400034: spear loop
+    7400036: casting
+    11100000: //RootNode
+    13700000: FH_skeleton
+    13700002: FH_skeleton_strong
+    13700004: skeleton_ arch_03
+    13700006: skeleton_arch_01
+    13700008: skeleton_arch_02
+    13700010: skeleton_arm plate
+    13700012: skeleton_boot_01
+    13700014: skeleton_boot_02
+    13700016: skeleton_cloth_01
+    13700018: skeleton_hood
+    13700020: skeleton_knee pad
+    13700022: skeleton_leg plate
+    13700024: skeleton_leg ring
+    13700026: skeleton_pelvis_armor
+    13700028: skeleton_shoulder pad_01
+    13700030: skeleton_shoulder pad_02
+    13700032: skeleton_shoulder pad_03
+    13700034: skeleton_shoulder pad_07
+    13700036: skeleton_shoulder pad_08
+    13700038: skeleton_wizard
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle break01
+      takeName: 
+      firstFrame: 90
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle break02
+      takeName: 
+      firstFrame: 160
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: salute
+      takeName: 
+      firstFrame: 300
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: crouch
+      takeName: 
+      firstFrame: 370
+      lastFrame: 385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit
+      takeName: 
+      firstFrame: 390
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: 
+      firstFrame: 410
+      lastFrame: 455
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die01
+      takeName: 
+      firstFrame: 455
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: getup
+      takeName: 
+      firstFrame: 480
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die02
+      takeName: 
+      firstFrame: 510
+      lastFrame: 535
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: blocking
+      takeName: 
+      firstFrame: 540
+      lastFrame: 560
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack01
+      takeName: 
+      firstFrame: 560
+      lastFrame: 585
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack02
+      takeName: 
+      firstFrame: 585
+      lastFrame: 610
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack double
+      takeName: 
+      firstFrame: 610
+      lastFrame: 645
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: arch attack
+      takeName: 
+      firstFrame: 700
+      lastFrame: 755
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: prepare spear
+      takeName: 
+      firstFrame: 755
+      lastFrame: 765
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: spear attack
+      takeName: 
+      firstFrame: 765
+      lastFrame: 785
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: spear loop
+      takeName: 
+      firstFrame: 761
+      lastFrame: 780
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casting
+      takeName: 
+      firstFrame: 800
+      lastFrame: 840
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
