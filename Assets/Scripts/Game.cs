@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class Game : MonoBehaviour {
 
     [SerializeField]
-    Text roundText, levelText, moneyText, hpText;                   // ссылки на текст
+    Text roundText, levelText, moneyText, hpText,timerText;                   // ссылки на текст
     [SerializeField]
     int needpointforup, currentExp = 0;      // переменны для функции NeedLevelPoint,колличество необходимого опыта, и количесство текущего опыта
     [SerializeField]
@@ -21,6 +21,7 @@ public class Game : MonoBehaviour {
         moneyText = GameObject.FindGameObjectWithTag("PanelUI").transform.GetChild(1).GetChild(0).GetComponent<Text>();            // ....
         levelText = GameObject.FindGameObjectWithTag("PanelUI").transform.GetChild(2).GetChild(0).GetComponent<Text>();            //....
         hpText = GameObject.FindGameObjectWithTag("PanelUI").transform.GetChild(3).GetChild(0).GetComponent<Text>();               //Инициализация объектов есть префаб Canvas
+        timerText = GameObject.FindGameObjectWithTag("PanelUI").transform.GetChild(4).GetChild(0).GetComponent<Text>();
         betweenRounds = GameObject.Find("PauseAssist").GetComponent<PauseBetweenRounds>();
         Invoke("Test", 2f);
     }
@@ -44,9 +45,10 @@ public class Game : MonoBehaviour {
     //конец раунда
     public void EndRound()
     {
-        Invoke("NextRound", 5); 
+        NextRound(); 
         //
     }
+
 
     //обновление UI панели 
     void NextRound()
@@ -65,6 +67,11 @@ public class Game : MonoBehaviour {
         }
         hpText.text = hpCount + " / 100";
 
+    }
+
+    public void RefreshTimerText(float a)
+    {
+        timerText.text = (int) a + " ";
     }
    
     //метод для обновления опыта,в переменную вбивается количество приходящего опыта

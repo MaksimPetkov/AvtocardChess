@@ -8,9 +8,12 @@ public class PauseBetweenRounds : MonoBehaviour {
 
     float timer;
 
-    public bool StartPause = false;
+    public bool StartPause = false;       //проверка стартовала ли пауза
     bool ReadyActiveBuyPanel = false;    // переменная для проверки готова ли панель к активации
     bool kalkulatedCard = false;      //проверка были ли обнволены карты в магазине(панели)
+    [SerializeField]
+    float timerMAX = 10f;
+    Game Game;
 
     public GameObject BuyPanel;       // на сцене висит объект BuyPanel юзается для покупки карт
 
@@ -20,6 +23,7 @@ public class PauseBetweenRounds : MonoBehaviour {
     // Use this for initialization
     void Start ()
     {
+        Game = GameObject.Find("Assist").GetComponent<Game>();
         BuyPanel = GameObject.Find("BuyPanel");
         DeactivateBuyPanel();
         playerScript = GameObject.Find("NotDestoygGameObject").GetComponent<PlayerScript>();
@@ -49,12 +53,13 @@ public class PauseBetweenRounds : MonoBehaviour {
                 }
             }
 
-            if (timer < 5)                       // таймер,длится по желаннию
+            if (timer < timerMAX)                       // таймер,длится по желаннию
             {
                 timer += Time.deltaTime;
-
-                if(timer >= 5)                        // конец таймера
+                Game.RefreshTimerText(timer);
+                if(timer >= timerMAX)                        // конец таймера
                 {
+                    Game.EndRound();
                     EndTImer();
                 }
             }
@@ -67,7 +72,7 @@ public class PauseBetweenRounds : MonoBehaviour {
         timer = 0;
         ClearKalkulatateCard();
         kalkulatedCard = false;
-        DeactivateBuyPanel();
+        DeactivateBuyPanel();       //насильное закрытие магазина
     }
     void Test()
     {
@@ -75,6 +80,11 @@ public class PauseBetweenRounds : MonoBehaviour {
         ReadyActiveBuyPanel = true;
     }
 
+    //show timer
+    void ShowTimer()
+    {
+         
+    }
     //состояния панели для закупки карт
     void ActiveBuyPanel()
     {
